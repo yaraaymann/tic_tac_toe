@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/user.jpeg</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>sounds/game_draw.wav</file>
+        <file>sounds/winner.wav</file>
+        <file>sounds/background_music.wav</file>
+        <file>sounds/080047_lose_funny_retro_video-game-80925.wav</file>
+    </qresource>
+</RCC>
